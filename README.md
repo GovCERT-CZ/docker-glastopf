@@ -4,7 +4,7 @@ This is Docker image for honeypot Glastopf (https://github.com/mushorg/glastopf)
 
 Build docker image
     
-    $ https://github.com/GovCERT-CZ/docker-glastopf
+    $ git clone https://github.com/GovCERT-CZ/docker-glastopf
     $ cd docker-glastopf
     $ docker build -t <repository>/<name> .
     
